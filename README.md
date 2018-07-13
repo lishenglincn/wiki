@@ -1,0 +1,2 @@
+# wiki
+Platon Wiki
