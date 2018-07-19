@@ -1,1 +1,1 @@
-Please see Wiki Page: https://github.com/PlatONnetwork/wiki/wiki
+Please see Wiki Page: [wiki](https://github.com/PlatONnetwork/wiki/wiki)
